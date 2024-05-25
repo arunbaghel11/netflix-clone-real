@@ -49,7 +49,7 @@ TMDB API and Website---->
 The TMDB API and website were not running on my network. If the link does not work or you are unable to see the movie cards and details on the page, it is advised to refresh or install a VPN.
 On phone, use SuperVPN and on laptop/PC, use TurboVPN.
 The API fetches the results only when the VPN is enabled as the TMDB website is down. It is a humble request to enable VPN for the website to be fully functional.
-and sorry for the inconvenience caused also due to lack of time I was unable to add responsiveness so it is advised to view the website on laptop/pc
+and sorry for the inconvenience caused
 
 
 
